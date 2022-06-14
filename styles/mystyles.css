@@ -1,0 +1,17 @@
+h1{
+    color: lightsalmon
+}
+.indent{
+    margin-left: 10px;
+    
+}
+
+.bold{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.underline{
+    text-decoration: underline;
+
+}
